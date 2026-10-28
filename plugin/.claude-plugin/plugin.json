@@ -1,0 +1,8 @@
+{
+  "name": "look-dont-touch",
+  "version": "0.1.0",
+  "description": "Claude acts only when you explicitly ask; questions get answers, not changes.",
+  "author": {
+    "name": "Nikita Stepochkin"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "claude-look-dont-touch",
+  "owner": {
+    "name": "Nikita Stepochkin"
+  },
+  "description": "Plugins that keep Claude from acting unless asked.",
+  "plugins": [
+    {
+      "name": "look-dont-touch",
+      "source": "./plugin",
+      "description": "Claude acts only when you explicitly ask; questions get answers, not changes."
+    }
+  ]
+}
