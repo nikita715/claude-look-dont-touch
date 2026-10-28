@@ -11,7 +11,7 @@ It is a behavioral instruction, not a technical restriction: it works in any per
 ## Install
 
 ```
-/plugin marketplace add <github-user>/claude-look-dont-touch
+/plugin marketplace add nikita715/claude-look-dont-touch
 /plugin install look-dont-touch@claude-look-dont-touch
 ```
 
